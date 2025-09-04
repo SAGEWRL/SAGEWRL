@@ -1,15 +1,15 @@
 # Hi there, I’m Charles Washington 👋
 
-🎓 **Student** passionate about **AI** & **Python**
+🎓 **Student** passionate about **AI** , **Python**,**Cloud**&**Cybersecurity 
   
 🚀 Currently building:  
-**An AI Memory & Reasoning Resource** — exploring how machines remember, reason, and learn.
+**An AI Memory & Reasoning Resource** — exploring how machines remember, reason, and learn.But it's a long time project, still looking for partners.My Current goal right now is to better my Skills as an upcoming Cloud Security Specialist.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔬 Fascinated by all things Artificial Intelligence.
+- 🔬 Fascinated by all things Artificial Intelligence,and Cloud Security.
 - 🐍 Python enthusiast, always learning and experimenting.
 - 🌟 “I create, I conquer, I never stop.”
 - 📱 Social media lover, always looking to connect and share ideas!
@@ -28,7 +28,8 @@
 - Building robust AI memory modules
 - Researching reasoning approaches in neural networks
 - Open to collaborations and sharing resources
-
+-
+Learning Cloud and Cybersecurity 
 ---
 
 ## ⚡ Fun Fact
